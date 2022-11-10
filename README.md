@@ -1,15 +1,3 @@
-# Frontend Mentor - News homepage
-
-![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
-
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-**To do this challenge, you need a good understanding of HTML and CSS.**
-
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -36,5 +24,5 @@ I am a systems engineer with more than 3 years of experience in front-end web de
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/arturo0427/News-homepage)
+- Live Site URL: [live site URL](https://arturo0427.github.io/News-homepage/)
